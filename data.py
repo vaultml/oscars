@@ -6,7 +6,10 @@ class award(object):
     support_actor = 1
     best_actress = 2
     support_actress = 3
-    all = [best_actor, support_actor, best_actress, support_actress]
+    best_picture = 4
+    directing = 5
+    acting = [best_actor, support_actor, best_actress, support_actress, best_picture, directing]
+    all = [best_actor, support_actor, best_actress, support_actress, best_picture, directing]
 
     def __init_(self):
         pass

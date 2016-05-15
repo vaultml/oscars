@@ -17,7 +17,7 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0000110,Kenneth,Branagh,,1960-12-10,M
 0000113,Sandra,Bullock,,1964-07-26,F
 0000115,Nicolas,Cage,,1964-01-07,M
-0000123,George,Clooney,(I),1961-05-06,
+0000123,George,Clooney,(I),1961-05-06,0
 0000124,Jennifer,Connelly,,1970-12-12,F
 0000125,Sean,Connery,,1930-08-25,M
 0000126,Kevin,Costner,,1955-01-18,M
@@ -202,7 +202,7 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0001125,Benicio,Del Toro,,1967-02-19,M
 0001132,Judi,Dench,,1934-12-09,F
 0001136,Bruce,Dern,,1936-06-04,M
-0001156,Olympia,Dukakis,,1931-06-20,
+0001156,Olympia,Dukakis,,1931-06-20,0
 0001164,Charles,Durning,,1923-02-28,M
 0001186,Denholm,Elliott,,1922-05-31,M
 0001215,Albert,Finney,,1936-05-09,M
@@ -226,7 +226,7 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0001416,Catherine,Keener,,1959-03-23,F
 0001426,Ben,Kingsley,,1943-12-31,M
 0001427,Greg,Kinnear,,1963-06-17,M
-0001441,Christine,Lahti,(I),1950-04-04,
+0001441,Christine,Lahti,(I),1950-04-04,0
 0001445,Martin,Landau,,1928-06-20,M
 0001448,Jessica,Lange,(I),1949-04-20,F
 0001449,Frank,Langella,,1938-01-01,M
