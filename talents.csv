@@ -5,6 +5,7 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0000024,John,Gielgud,,1904-04-14,M
 0000027,Alec,Guinness,,1914-04-02,M
 0000031,Katharine,Hepburn,,1907-05-12,F
+0000042,Alan,Ladd,(I),1913-09-03,M
 0000044,Burt,Lancaster,,1913-11-02,M
 0000051,James,Mason,(I),1909-05-15,M
 0000052,Marcello,Mastroianni,,1924-09-28,M
@@ -17,6 +18,7 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0000110,Kenneth,Branagh,,1960-12-10,M
 0000113,Sandra,Bullock,,1964-07-26,F
 0000115,Nicolas,Cage,,1964-01-07,M
+0000116,James,Cameron,(I),1954-08-16,M
 0000123,George,Clooney,(I),1961-05-06,0
 0000124,Jennifer,Connelly,,1970-12-12,F
 0000125,Sean,Connery,,1930-08-25,M
@@ -33,12 +35,14 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0000147,Colin,Firth,,1960-09-10,M
 0000149,Jodie,Foster,,1962-11-19,F
 0000151,Morgan,Freeman,(I),1937-06-01,M
+0000154,Mel,Gibson,(I),1956-01-03,M
 0000155,Whoopi,Goldberg,,1955-11-13,F
 0000158,Tom,Hanks,,1956-07-09,M
 0000160,Ethan,Hawke,,1970-11-06,M
 0000161,Salma,Hayek,,1966-09-02,F
 0000163,Dustin,Hoffman,,1937-08-08,M
 0000164,Anthony,Hopkins,(I),1937-12-31,M
+0000165,Ron,Howard,(I),1954-03-01,M
 0000166,Helen,Hunt,(I),1963-06-15,F
 0000168,Samuel L.,Jackson,,1948-12-21,M
 0000169,Tommy Lee,Jones,,1946-09-15,M
@@ -60,11 +64,13 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0000210,Julia,Roberts,(I),1967-10-28,F
 0000213,Winona,Ryder,,1971-10-29,F
 0000215,Susan,Sarandon,,1946-10-04,F
+0000217,Martin,Scorsese,,2016-11-17,0
 0000218,Kristin,Scott Thomas,,1960-05-24,F
 0000223,Elisabeth,Shue,,1963-10-06,F
 0000226,Will,Smith,(I),1968-09-25,M
 0000227,Mira,Sorvino,,1967-09-28,F
 0000228,Kevin,Spacey,,1959-07-26,M
+0000229,Steven,Spielberg,,1946-12-18,M
 0000232,Sharon,Stone,(I),1958-03-10,F
 0000234,Charlize,Theron,,1975-08-07,F
 0000235,Uma,Thurman,,1970-04-29,F
@@ -77,11 +83,13 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0000249,James,Woods,(I),1947-04-18,M
 0000250,Renée,Zellweger,,1969-04-25,F
 0000254,Isabelle,Adjani,,1955-06-27,F
+0000255,Ben,Affleck,,1972-08-15,M
 0000257,Alan,Alda,,1936-01-28,M
 0000260,Joan,Allen,(I),1956-08-20,F
 0000267,Julie,Andrews,(I),1935-10-01,F
 0000271,Anne,Archer,(I),1947-08-24,F
 0000273,Alan,Arkin,,1934-03-26,M
+0000277,Richard,Attenborough,,1923-08-29,M
 0000285,Alec,Baldwin,,1958-04-03,M
 0000288,Christian,Bale,,1974-01-30,M
 0000291,Angela,Bassett,,1958-08-16,F
@@ -117,6 +125,7 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0000421,Cuba,Gooding Jr.,,1968-01-02,M
 0000429,Melanie,Griffith,,1957-08-09,F
 0000432,Gene,Hackman,,1930-01-30,M
+0000436,Curtis,Hanson,,1945-03-24,M
 0000437,Woody,Harrelson,,1961-07-23,M
 0000438,Ed,Harris,(I),1950-11-28,M
 0000443,Goldie,Hawn,,1945-11-21,F
@@ -139,6 +148,7 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0000515,Virginia,Madsen,,1961-09-11,F
 0000518,John,Malkovich,,1953-12-09,M
 0000531,Frances,McDormand,,1957-06-23,F
+0000537,Steve,McQueen,(I),1930-03-24,M
 0000541,Bette,Midler,,1945-12-01,F
 0000545,Helen,Mirren,,1945-07-26,F
 0000552,Eddie,Murphy,(I),1961-04-03,M
@@ -149,6 +159,7 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0000569,Gwyneth,Paltrow,,1972-09-27,F
 0000576,Sean,Penn,(I),1960-08-17,M
 0000582,Joe,Pesci,,1943-02-09,M
+0000591,Roman,Polanski,(I),1933-08-18,M
 0000592,Pete,Postlethwaite,,1946-02-07,M
 0000599,Kathleen,Quinlan,,1954-11-19,F
 0000603,Vanessa,Redgrave,,1937-01-30,F
@@ -162,6 +173,7 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0000651,Sissy,Spacek,,1949-12-25,F
 0000657,David,Strathairn,,1949-01-26,M
 0000658,Meryl,Streep,,1949-06-22,F
+0000659,Barbra,Streisand,,2016-04-24,0
 0000668,Emma,Thompson,(I),1959-04-15,F
 0000671,Billy Bob,Thornton,,1955-08-04,M
 0000672,Meg,Tilly,,1960-02-14,F
@@ -178,6 +190,7 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0000732,Danny,Aiello,,1933-06-20,M
 0000737,Jane,Alexander,(I),1939-10-28,F
 0000747,Don,Ameche,,1908-05-31,M
+0000759,Paul Thomas,Anderson,,2016-06-26,0
 0000843,Anne,Bancroft,(I),1931-09-17,F
 0000849,Javier,Bardem,,1969-03-01,M
 0000870,Kathy,Bates,(I),1948-06-28,F
@@ -185,16 +198,22 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0000905,Roberto,Benigni,,1952-10-27,M
 0000906,Annette,Bening,,1958-05-29,F
 0000932,Halle,Berry,,1966-08-14,F
+0000941,Kathryn,Bigelow,,1951-11-27,0
 0000949,Cate,Blanchett,,1969-05-14,F
 0000950,Brenda,Blethyn,,1946-02-20,F
 0000966,Lorraine,Bracco,,1954-10-02,F
+0000976,Martin,Brest,,1951-08-08,M
 0000980,Jim,Broadbent,,1949-05-24,M
 0000982,Josh,Brolin,,1968-02-12,M
 0000983,Albert,Brooks,(I),1947-07-22,M
+0000985,James L.,Brooks,,1940-05-09,M
 0000995,Ellen,Burstyn,,1932-12-07,F
 0001046,Julie,Christie,(I),1941-04-14,F
 0001049,Jill,Clayburgh,,1944-04-30,F
+0001053,Ethan,Coen,,1957-09-21,M
+0001054,Joel,Coen,,1954-11-29,M
 0001057,Toni,Collette,,1972-11-01,F
+0001060,Chris,Columbus,,1958-09-10,M
 0001080,Lindsay,Crouse,,1948-05-12,F
 0001109,Jaye,Davidson,(I),1968-03-21,M
 0001114,Judy,Davis,(I),1955-04-23,F
@@ -221,6 +240,7 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0001373,Linda,Hunt,(I),1945-04-02,F
 0001378,Anjelica,Huston,,1951-07-08,F
 0001388,Amy,Irving,(I),1953-09-10,F
+0001392,Peter,Jackson,(I),1961-10-31,M
 0001399,Marianne,Jean-Baptiste,,1967-04-26,F
 0001401,Angelina,Jolie,,1975-06-04,F
 0001416,Catherine,Keener,,1959-03-23,F
@@ -235,6 +255,7 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0001467,Jared,Leto,,1971-12-26,M
 0001473,Laura,Linney,,1964-02-05,F
 0001475,John,Lithgow,(I),1945-10-19,M
+0001484,Jon,Lovitz,,1957-07-21,M
 0001496,Amy,Madigan,(I),1950-09-11,F
 0001512,Mary Elizabeth,Mastrantonio,,1958-11-17,F
 0001521,Mary,McDonnell,(I),1952-04-28,F
@@ -244,6 +265,7 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0001550,Cathy,Moriarty,,1960-11-29,F
 0001552,Pat,Morita,,1932-06-28,M
 0001557,Viggo,Mortensen,,1958-10-20,M
+0001566,Mike,Nichols,(I),1931-11-06,M
 0001570,Edward,Norton,(I),1969-08-18,M
 0001574,Michael,O'Keefe,(I),1955-04-24,M
 0001579,Edward James,Olmos,,1947-02-24,M
@@ -254,6 +276,7 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0001609,Rosie,Perez,,1964-09-06,F
 0001618,Joaquin,Phoenix,,1974-10-28,M
 0001626,Christopher,Plummer,(I),1929-12-13,M
+0001628,Sydney,Pollack,,1934-07-01,M
 0001649,Anne,Ramsey,,1929-09-01,F
 0001653,Stephen,Rea,(I),1946-10-31,M
 0001655,Lynn,Redgrave,,1943-03-08,F
@@ -281,6 +304,7 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0001856,Oprah,Winfrey,,1954-01-29,F
 0001858,Mare,Winningham,,1959-05-16,F
 0001876,Catherine,Zeta-Jones,,1969-09-25,F
+0001880,Edward,Zwick,,1952-10-08,0
 0001884,Max,von Sydow,(I),1929-04-10,M
 0001903,Norma,Aleandro,,1936-05-02,F
 0001919,Peggy,Ashcroft,,1907-12-22,F
@@ -295,12 +319,14 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0002084,Brenda,Fricker,,1945-02-17,F
 0002128,Tess,Harper,,1950-08-15,F
 0002139,Judd,Hirsch,,1935-03-15,M
+0002657,Gary,Ross,(I),1956-11-03,M
 0002663,Diane,Ladd,,1935-11-29,F
 0003817,Michael Clarke,Duncan,,1957-12-10,M
 0004266,Anne,Hathaway,,1982-11-12,F
 0004778,Adrien,Brody,,1973-04-14,M
 0004851,Penélope,Cruz,,1974-04-28,F
 0004937,Jamie,Foxx,,1967-12-13,M
+0004976,Brian,Grazer,,1951-07-12,M
 0005023,Djimon,Hounsou,,1964-04-24,M
 0005024,Terrence,Howard,(I),1969-03-11,M
 0005028,Kate,Hudson,(I),1979-04-19,F
@@ -313,63 +339,90 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0005286,Haley Joel,Osment,,1988-04-10,M
 0005460,Mary,Steenburgen,,1953-02-08,F
 0005476,Hilary,Swank,,1974-07-30,F
+0005494,Steve,Tisch,,1949-02-14,M
+0005544,Harvey,Weinstein,,1952-03-19,M
+0005563,Irwin,Winkler,,1931-05-28,M
 0005569,Alfre,Woodard,,1952-11-08,F
+0005572,Lili Fini,Zanuck,,1954-04-02,0
 0006890,Paul,Scofield,(I),1922-01-21,M
 0010736,Amy,Adams,(III),1974-08-20,F
 0013037,Shohreh,Aghdashloo,,1952-05-11,F
 0056770,Adriana,Barraza,,1956-03-05,F
 0057363,Barbara,Barrie,,1931-05-23,F
 0067367,Bérénice,Bejo,,1976-07-07,F
+0071452,Robert,Benmussa,,1970-01-01,M
 0107281,Eileen,Brennan,(I),1932-09-03,F
 0128360,Adolph,Caesar,,1933-12-05,M
+0130492,John,Calley,,1930-07-08,M
 0136797,Steve,Carell,,1962-08-16,M
 0165101,Patricia,Clarkson,,1959-12-29,F
 0168394,James,Coco,,1930-03-21,M
+0169260,Bruce,Cohen,(I),2016-09-23,M
 0172604,Pauline,Collins,,1940-09-03,F
 0177896,Bradley,Cooper,(I),1975-01-05,M
 0177933,Chris,Cooper,(I),1951-07-09,M
 0182839,Marion,Cotillard,,1975-09-30,F
 0183822,Tom,Courtenay,,1937-02-25,M
+0202704,Bruce,Davey,(I),1970-01-01,M
 0205626,Viola,Davis,(I),1965-08-11,F
 0227039,Melinda,Dillon,,1939-10-13,F
+0233386,Lindsay,Doran,(I),2016-06-22,F
 0241121,Jean,Dujardin,,1972-06-19,M
 0251986,Jesse,Eisenberg,,1983-10-05,M
 0252230,Chiwetel,Ejiofor,,1977-07-10,M
 0267812,Vera,Farmiga,,1973-08-06,F
 0290556,James,Franco,,1978-04-19,M
+0291205,David,Frankel,(I),1959-04-02,0
 0306696,Vincent,Gardenia,,1920-01-07,M
 0316079,Paul,Giamatti,,1967-06-06,M
+0327944,Alejandro,González Iñárritu,,1963-08-15,0
 0330143,Dexter,Gordon,(I),1923-02-27,M
 0331516,Ryan,Gosling,,1980-11-12,M
 0341737,Rachel,Griffiths,(I),1968-12-18,F
 0350453,Jake,Gyllenhaal,,1980-12-19,M
 0350454,Maggie,Gyllenhaal,,1977-11-16,F
 0352466,Joan,Hackett,,1934-03-01,F
+0353673,Paul,Haggis,,1953-03-10,M
 0355097,Jackie Earle,Haley,,1961-07-14,M
 0365281,Rosemary,Harris,(I),1927-09-19,F
 0370035,John,Hawkes,(I),1959-09-11,M
 0377888,Justin,Henry,(I),1971-05-25,M
 0378245,Taraji P.,Henson,,1970-09-11,F
+0380980,Marshall,Herskovitz,,1952-02-23,0
+0381416,Grant,Heslov,,1963-05-15,M
 0382676,William,Hickey,(I),1927-09-19,M
 0413168,Hugh,Jackman,,1968-10-12,M
 0420955,Richard,Jenkins,(I),1947-05-04,M
+0422484,Norman,Jewison,,1926-07-21,M
+0423134,Dan,Jinks,,1970-01-01,M
+0425741,Mark,Johnson,(I),2016-12-27,M
 0428065,Felicity,Jones,(II),1983-10-17,F
+0441097,Anthony,Katagas,,1971-05-15,M
 0447695,Anna,Kendrick,(I),1985-08-09,F
 0452860,Rinko,Kikuchi,,1981-01-06,F
 0461136,Keira,Knightley,,1985-03-26,F
+0465745,Arnold,Kopelson,,1935-02-14,M
 0499170,Eva,Le Gallienne,,1899-01-11 00:00:00,F
 0502425,Melissa,Leo,(I),1960-09-14,F
 0503627,Michael,Lerner,(I),1941-06-22,M
+0525303,Baz,Luhrmann,,1962-09-17,M
+0527322,Branko,Lustig,,1932-06-10,M
+0550881,Frank,Marshall,(I),1946-09-13,M
 0556850,Marsha,Mason,(I),1942-04-03,F
 0559144,Marlee,Matlin,,1965-08-24,F
 0565250,Melissa,McCarthy,,1970-08-26,F
+0580337,Ismail,Merchant,,1936-12-25,M
+0586969,Arnon,Milchan,,1944-12-06,M
 0594898,Mo'Nique,,,1967-12-11,F
+0596520,Gerald R.,Molen,,1935-01-06,M
 0608090,Samantha,Morton,(I),1977-05-13,F
 0625075,Kate,Nelligan,,1950-03-16,F
 0628955,Haing S.,Ngor,,1940-03-22,M
 0645683,Sophie,Okonedo,,1968-08-02,F
+0651614,Barrie M.,Osborne,,1944-02-07,M
 0654110,Clive,Owen,(I),1964-10-03,M
 0656183,Geraldine,Page,,1924-11-22,F
+0661406,David,Parfitt,,1958-12-02,M
 0680983,Ellen,Page,,1987-02-21,F
 0683253,Rosamund,Pike,,1979-01-27,F
 0687506,Joan,Plowright,,1929-10-28,F
@@ -380,7 +433,10 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0738415,Howard E.,Rollins Jr.,,1950-10-17,M
 0749263,Mark,Ruffalo,,1967-11-22,M
 0752407,Amy,Ryan,(I),1968-05-03,F
+0764963,Alain,Sarde,,1952-03-28,M
+0768324,Edward,Saxon,,2016-11-17,M
 0769311,Diana,Scarwid,,1955-08-27,F
+0777531,Ronald L.,Schwary,,1944-05-23,M
 0788335,Michael,Shannon,(V),1974-08-07,M
 0799777,J.K.,Simmons,,1955-01-09,M
 0815433,Ann,Sothern,,1909-01-22,F
@@ -389,6 +445,9 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0822535,Kim,Stanley,(I),1925-02-11,F
 0822972,Maureen,Stapleton,,1925-06-21,F
 0842770,Tilda,Swinton,,1960-11-05,F
+0859016,Jeremy,Thomas,(I),1949-07-26,M
+0863374,Emma,Tillinger Koskoff,,1971-05-15,F
+0882588,Kenneth,Utt,,1921-07-13,M
 0910278,Julie,Walters,(I),1950-02-22,F
 0910607,Christoph,Waltz,,1956-10-04,M
 0913822,Ken,Watanabe,(I),1959-10-21,M
@@ -396,7 +455,9 @@ talentid,first_name,last_name,suffix,birth_date,gender
 0915865,Jacki,Weaver,,1947-05-25,F
 0929489,Tom,Wilkinson,(I),1948-02-05,M
 0931329,Michelle,Williams,(I),1980-09-09,F
+0933604,Jim,Wilson,(I),1970-01-01,M
 0940946,Joanne,Woodward,(I),1930-02-27,F
+0946811,Peter,Yates,(I),1929-07-24,M
 1020089,Sally,Hawkins,(I),1976-04-27,F
 1055413,Michael,Fassbender,,1977-04-02,M
 1095720,Keisha,Castle-Hughes,,1990-03-24,F
@@ -413,6 +474,7 @@ talentid,first_name,last_name,suffix,birth_date,gender
 1913734,Rooney,Mara,,1985-04-17,F
 2143282,Lupita,Nyong'o,,1983-03-01,F
 2225369,Jennifer,Lawrence,(III),1990-08-15,F
+2691892,Margaret,Ellison,,2016-01-31,F
 2794962,Hailee,Steinfeld,,1996-12-11,F
 2829737,Gabourey,Sidibe,,1983-05-06,F
 4832920,Quvenzhané,Wallis,,2003-08-28,F
