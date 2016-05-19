@@ -17,7 +17,30 @@ class award(object):
 
 def read_movies():
     movies = pd.read_csv('movies.csv', dtype={'imdbid': str}, index_col=None)
-    return movies
+    movies.budget /= 1e6
+    movies.gross_usa /= 1e6
+    movies.genres = movies.genres.apply(lambda x: x.split(','))
+    genres = {'imdbid': [], 'genre': []}
+    for row in movies.itertuples():
+        for genre in row.genres:
+            genres['imdbid'].append(row.imdbid)
+            genres['genre'].append(genre)
+    genres = pd.DataFrame(genres)
+    genres = genres[genres.genre.isin(set([
+        'Action',
+        'Comedy',
+        'Drama',
+        'Fantasy',
+        'Horror',
+        'Musical',
+        'Animation',
+        'Sci-Fi',
+        'Crime',
+        'Adventure',
+        'Family',
+        'Romance',
+    ]))]
+    return movies, genres
 
 
 def read_talents():
